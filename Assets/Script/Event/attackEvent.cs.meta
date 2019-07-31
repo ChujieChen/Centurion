@@ -1,0 +1,23 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class attackEvent : MonoBehaviour
+{
+    // Start is called before the first frame update
+    public GameObject parent;
+    public string[]   enemyTag;
+    AttackEventInterface attackEventInterface; 
+    private void OnCollisionEnter(Collision collision)
+    {
+        //if(collision.gameObject.tag )
+    }
+    void Start()
+    {
+        attackEventInterface = parent.GetComponent<AttackEventInterface>();
+        if (parent.tag == "teamA")
+            enemyTag = { "teamB"};
+        else
+    }
+
+}
