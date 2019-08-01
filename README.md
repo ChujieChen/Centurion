@@ -6,7 +6,7 @@ There are currently three levels with different enemy sets.
 <p>
 Character Selection:
 <br>
-<strong>Do not Add Wizard into game, it is not developed yet</strong>
+
 <p>
 Click the button in the bottom to choose different character. Once you choose the character, you can left click on the map to deploy that character. You can right click on a character to remove it. You can put as many charcters as you want since we have not implement a restriction on it.
 Press Start to Start the Game.
