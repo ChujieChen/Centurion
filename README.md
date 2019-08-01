@@ -1,31 +1,31 @@
 <p>
-Main Menu:
+Game objective
 <br>
-There are currently three levels with different enemy sets.
+The objective of the game is to destroy the enemy spawners.
 </p>
 <p>
-Character Selection:
+Soldier placement:
 <br>
-
 <p>
-Click the button in the bottom to choose different character. Once you choose the character, you can left click on the map to deploy that character. You can right click on a character to remove it. You can put as many charcters as you want since we have not implement a restriction on it.
-Press Start to Start the Game.
+Choose an army and deploy in the battlefield: In the character selection menu, click the character you want to deploy, and then click the ground to locate them in space. Right click to undo these actions.
 </p>
 </p>
 <p>
-Fight Scene:
+Hero control
   <p>
-  Spectator View:
-    Press F To Gain Direct Control Over A Character. It will select the character that is near the center of your screen.
-    Press WASD to move the camera. Press QE to change the height of the camera.
+  Control your army’s general using WASD to move and rotate, and Left click for attack
   </p>
   <p>
-  Third Person View:
-    Press WASD to move.
-    Press Left Mouse Button to Attak.
+  Control nearby soldiers using comma (,) for attack, for period (.) to defend and slash (/) to follow.
   </p>
   <p>
-    You can control the catapult if you are close. However, it is still under development.
+    Enter the green zone to activate the catapult. Right click or Press L to control or exit the catapult. Press WS to change its range & AD to rotate it towards the target. Aim at oil pits to increase explosion range.
+  </p>
+   <p>
+    Push enemies onto the swinging blades, spikes, or spikes balls to attack them.
+  </p>
+  <p>
+    Press 8, 9, 0 to hire more troops during the battle
   </p>
 </p>
     
