@@ -1,4 +1,10 @@
 <p>
+Release
+<br>
+  The execuable is public for Mac now (v1.0)
+</p>
+
+<p>
 Game objective
 <br>
 The objective of the game is to destroy the enemy spawners.
